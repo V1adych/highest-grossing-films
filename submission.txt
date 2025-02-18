@@ -1,0 +1,3 @@
+Link to GitHub project: https://github.com/V1adych/highest-grossing-films
+Link to Jupyter Notebook: https://github.com/V1adych/highest-grossing-films/blob/main/notebooks/scrapping.ipynb
+Link to GitHub page: https://v1adych.github.io/highest-grossing-films/frontend/index.html
